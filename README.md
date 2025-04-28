@@ -5,7 +5,7 @@ I'm a soon-to-be Computer Science graduate with a passion for building clean, im
 ---
 
 ## 🚀 About Me
-- 🎓 Senior majoring in Computer Science  
+- 🎓 Senior majoring in Computer Science (Graduates May 2025) 
 - 💡 Interested in web development, software engineering, and data-driven apps  
 - 🧩 Currently building real-time alerting systems and full-stack projects  
 - 📍 Open to full-time software roles (remote or on-site)  
