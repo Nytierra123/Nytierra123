@@ -25,6 +25,7 @@ Tools & Platforms:
 Git/GitHub | PostgreSQL | MongoDB | Docker | GitHub Actions
 
 🌟 Featured Projects
+
 📈 Interactive KPI Dashboard (Capstone Project)
 A real-time KPI Dashboard for business performance tracking using Python and Google Looker Studio.
 Tech Stack: Python, Pandas, Google Looker Studio
