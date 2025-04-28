@@ -40,9 +40,13 @@ A basic project showcasing automated testing and deployment using GitHub Actions
 Tech Stack: Python, GitHub Actions
 ➡️ Demonstrates how to automate your development workflow using continuous integration.
 
+
 📫 Connect With Me
 ✉️ Email: nytierrahobbs@gmail.com
-💼 Handshake:[](https://app.joinhandshake.com/profiles/buzrq9)
-💼 LinkedIn:[](https://www.linkedin.com/in/nytierra-hobbs-059846276/)
+
+💼 LinkedIn: linkedin.com/in/nytierra-hobbs-059846276/
+
+🎓 Handshake Profile: joinhandshake.com/profiles/buzrq9
+
 🌐 Portfolio: (coming soon)
 
